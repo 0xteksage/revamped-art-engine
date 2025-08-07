@@ -1,0 +1,23 @@
+{
+  "name": "Your Collection Name #14",
+  "description": "Replace this with your collection description.",
+  "image": "14.png",
+  "dna": "2a8b0ce1d88bef7fc7bca2fc7c712e5714c05cee",
+  "edition": 14,
+  "date": 1754530029861,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background 8"
+    },
+    {
+      "trait_type": "Emoji",
+      "value": "Emoji 11"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Pattern 5"
+    }
+  ],
+  "compiler": "The thirdweb Art Engine"
+}

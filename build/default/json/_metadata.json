@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Your Collection Name #0",
+    "description": "Replace this with your collection description.",
+    "image": "0.png",
+    "dna": "9fd705b4e5b465efa09504764b8b169209d4ddf0",
+    "edition": 0,
+    "date": 1754530028807,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 7"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 13"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 6"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #1",
+    "description": "Replace this with your collection description.",
+    "image": "1.png",
+    "dna": "d4118b65da2dd42c0f15098d7c43345e69efeba2",
+    "edition": 1,
+    "date": 1754530028884,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 9"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 4"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #2",
+    "description": "Replace this with your collection description.",
+    "image": "2.png",
+    "dna": "1c932e7726159a67927686ee7272c7b08ca0d733",
+    "edition": 2,
+    "date": 1754530028958,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 17"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #3",
+    "description": "Replace this with your collection description.",
+    "image": "3.png",
+    "dna": "5552d97023dfad9d4c24f92cadd0fae2ccacea8e",
+    "edition": 3,
+    "date": 1754530029034,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 18"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 2"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #4",
+    "description": "Replace this with your collection description.",
+    "image": "4.png",
+    "dna": "30ba6d136ad458d04e4931970d4d0bc105311049",
+    "edition": 4,
+    "date": 1754530029113,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 6"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 17"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #5",
+    "description": "Replace this with your collection description.",
+    "image": "5.png",
+    "dna": "7df0ca5d1afc1f6e6b243812e2d614c5508ca750",
+    "edition": 5,
+    "date": 1754530029189,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 2"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 13"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #6",
+    "description": "Replace this with your collection description.",
+    "image": "6.png",
+    "dna": "3151e5f4bc3811a32322d6ca65bc2e5d62850a34",
+    "edition": 6,
+    "date": 1754530029270,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 6"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 3"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 4"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #7",
+    "description": "Replace this with your collection description.",
+    "image": "7.png",
+    "dna": "429fa3aba84002502a56c70c713ea45668b136e4",
+    "edition": 7,
+    "date": 1754530029345,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 14"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 6"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #8",
+    "description": "Replace this with your collection description.",
+    "image": "8.png",
+    "dna": "04157996b96c47384b0ba4d6b75770aadcbe393c",
+    "edition": 8,
+    "date": 1754530029420,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 10"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #9",
+    "description": "Replace this with your collection description.",
+    "image": "9.png",
+    "dna": "08a067caab5759d13a096ca042159abf0470852a",
+    "edition": 9,
+    "date": 1754530029493,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 6"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 6"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #10",
+    "description": "Replace this with your collection description.",
+    "image": "10.png",
+    "dna": "0e95b42172090a769cbc55e49421246684ce3d7e",
+    "edition": 10,
+    "date": 1754530029572,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 5"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 20"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #11",
+    "description": "Replace this with your collection description.",
+    "image": "11.png",
+    "dna": "00ea46b2ebcbdd97ee479f971418f643780f3916",
+    "edition": 11,
+    "date": 1754530029642,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 18"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #12",
+    "description": "Replace this with your collection description.",
+    "image": "12.png",
+    "dna": "6fcef0ce19fc4479443d37b5b231eccfbecf86a5",
+    "edition": 12,
+    "date": 1754530029717,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 6"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 15"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 6"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #13",
+    "description": "Replace this with your collection description.",
+    "image": "13.png",
+    "dna": "5f145c22c8bbd30106b587dc5e962cd89ac8a7ab",
+    "edition": 13,
+    "date": 1754530029789,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 4"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 5"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 5"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #14",
+    "description": "Replace this with your collection description.",
+    "image": "14.png",
+    "dna": "2a8b0ce1d88bef7fc7bca2fc7c712e5714c05cee",
+    "edition": 14,
+    "date": 1754530029861,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 11"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 5"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #15",
+    "description": "Replace this with your collection description.",
+    "image": "15.png",
+    "dna": "2755cab9e9f822fc96b7fe9a959fab650774d426",
+    "edition": 15,
+    "date": 1754530029932,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 14"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 5"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #16",
+    "description": "Replace this with your collection description.",
+    "image": "16.png",
+    "dna": "d9d031d091d429ac6c66604c3617f10d8fceedef",
+    "edition": 16,
+    "date": 1754530030011,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 7"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 17"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 6"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #17",
+    "description": "Replace this with your collection description.",
+    "image": "17.png",
+    "dna": "5006db6fed9c63b2c47c4d643f3ecf4adcc6bf86",
+    "edition": 17,
+    "date": 1754530030084,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 10"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 7"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 7"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #18",
+    "description": "Replace this with your collection description.",
+    "image": "18.png",
+    "dna": "111fca754255a65c2254d9687374ac0eb59cb36e",
+    "edition": 18,
+    "date": 1754530030156,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 1"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 6"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 7"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #19",
+    "description": "Replace this with your collection description.",
+    "image": "19.png",
+    "dna": "7602d700aebc51a36dcf3db550a8ee0e5525751b",
+    "edition": 19,
+    "date": 1754530030227,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 5"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 9"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 10"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  }
+]

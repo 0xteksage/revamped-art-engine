@@ -1,0 +1,22 @@
+{
+  "name": "Your Collection Name #11",
+  "symbol": "Replace this with your collection symbol.",
+  "description": "Replace this with your collection description.",
+  "image": "11.png",
+  "edition": 11,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background 9"
+    },
+    {
+      "trait_type": "Emoji",
+      "value": "Emoji 20"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Pattern 1"
+    }
+  ],
+  "compiler": "The thirdweb Art Engine"
+}

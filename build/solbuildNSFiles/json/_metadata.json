@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Your Collection Name #0",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "0.png",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 2"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #1",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 7"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 14"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #2",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "2.png",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 2"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 15"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #3",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "3.png",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 7"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 4"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 6"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #4",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "4.png",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 6"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 14"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 2"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #5",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "5.png",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 4"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 8"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #6",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "6.png",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 6"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 14"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #7",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "7.png",
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 7"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 5"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #8",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "8.png",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 4"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 1"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 4"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #9",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "9.png",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 5"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 17"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #10",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "10.png",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 6"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 2"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 7"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #11",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "11.png",
+    "edition": 11,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 20"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 1"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #12",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "12.png",
+    "edition": 12,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 6"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 6"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #13",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "13.png",
+    "edition": 13,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 2"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 10"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 3"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #14",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "14.png",
+    "edition": 14,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 8"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 19"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 9"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #15",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "15.png",
+    "edition": 15,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 5"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 7"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 7"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #16",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "16.png",
+    "edition": 16,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 6"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 5"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #17",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "17.png",
+    "edition": 17,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 3"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 13"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 6"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #18",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "18.png",
+    "edition": 18,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 4"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 18"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 7"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  },
+  {
+    "name": "Your Collection Name #19",
+    "symbol": "Replace this with your collection symbol.",
+    "description": "Replace this with your collection description.",
+    "image": "19.png",
+    "edition": 19,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 9"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Emoji 19"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern 8"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  }
+]
