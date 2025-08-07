@@ -154,7 +154,7 @@ Apply pixelation effects to your generated art:
 npm run pixelate
 ```
 
-#### Collection Management
+#### Collection Management (Compatible to any chain)
 Reset your generated collection (removes all generated images and metadata):
 ```sh
 npm run reset
